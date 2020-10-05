@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mariela and I am a cartographer :earth_americas: turned into a fullstack developer :dragon_face:.
+I am Mariela and I am a cartographer :earth_americas: turning into a fullstack developer :dragon_face:.
 
 I was lucky enough to win one of the scholarships Globant was awarding through the "Code your future" program. Thanks to this I discovered the wonderful world of programming and its infinite possibilities.
 
