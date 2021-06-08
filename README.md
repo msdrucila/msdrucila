@@ -2,11 +2,9 @@
 
 I am Mariela and I am a cartographer :earth_americas: turning into a fullstack developer :dragon_face:.
 
-I was lucky enough to win one of the scholarships Globant was awarding through the "Code your future" program. Thanks to this I discovered the wonderful world of programming and its infinite possibilities.
+I am currently living in Barcelona and studying Fullstack Web Development at CodeOp :rocket: Stay tuned to see more!
 
-I am currently deepening my studies in Javascript and Node to be able to carry out the 3rd and last project related to this course (online ordering system for a restaurant) and this is just the beginning. :rocket: Stay tuned to see more! 
-
-You can find me in LinkedIn: https://www.linkedin.com/in/mariela-soledad-toledo/
+You can find me on LinkedIn: https://www.linkedin.com/in/mariela-soledad-toledo/
 
 
 
