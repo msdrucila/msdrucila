@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Mariela and I am a Project Manager who is super curious about web development :dragon_face:.
+I am Mariela and I am a project manager eager to deepen my knowledge about web development :dragon_face:.
 
 I am currently living in Malta and studying Fullstack Web Development at CodeOp :rocket: Stay tuned to see more!
 
-You can find me on LinkedIn: https://www.linkedin.com/in/mariela-soledad-toledo/
+You can find me on LinkedIn: https://www.linkedin.com/in/mariela-soledad-toledo/ 
 
 
 
